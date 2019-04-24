@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 53 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-1106.17,-3269.83)">
+        <g transform="matrix(1,0,0,1,55,2283.49)">
+            <g id="logo_Facebook" transform="matrix(0.102208,0,0,0.102208,1077.33,1012.51)">
+                <g transform="matrix(1,0,0,1,-256,-256)">
+                    <clipPath id="_clip1">
+                        <rect x="0" y="0" width="512" height="512"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip1)">
+                        <g transform="matrix(1.323,0,0,1.323,-128.331,-93.9328)">
+                            <path d="M484,136.79C484,100.48 454.52,71 418.21,71L162.79,71C126.48,71 97,100.48 97,136.79L97,392.21C97,428.52 126.48,458 162.79,458L418.21,458C454.52,458 484,428.52 484,392.21L484,136.79Z" style="fill:white;"/>
+                        </g>
+                        <g transform="matrix(0.771863,0,0,0.771863,58.403,58.403)">
+                            <path d="M366,172.6L291.1,172.6L291.1,123.5C291.1,105 303.3,100.7 311.9,100.7L364.8,100.7L364.8,19.6L292,19.3C211.2,19.3 192.8,79.8 192.8,118.5L192.8,172.6L146,172.6L146,256.2L192.7,256.2L192.7,492.7L291,492.7L291,256.2L357.3,256.2L366,172.6Z" style="fill:rgb(255,66,27);fill-rule:nonzero;stroke:white;stroke-width:1.3px;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
